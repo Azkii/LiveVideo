@@ -2,7 +2,7 @@
  Technologies:
    - Socket.io
    - Express
-   - WebRTC
+   - PeerJS  `WebRTC`
 <p>
   Real time video chat room. 
 </p>
