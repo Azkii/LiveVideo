@@ -2,6 +2,7 @@
  Technologies:
    - Socket.io
    - Express
+   - WebRTC
 <p>
-  Real time video chat room based on Socket.io
+  Real time video chat room. 
 </p>
